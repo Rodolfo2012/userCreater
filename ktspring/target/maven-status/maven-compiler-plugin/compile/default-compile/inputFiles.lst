@@ -1,0 +1,8 @@
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/services/UserService.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/vos/UserResponse.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/vos/UserList.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/vos/User.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/converters/UserToUserResponseConverter.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/KtspringApplication.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/controllers/UserController.java
+/home/jrozendo/ktspring/src/main/java/com/example/ktspring/repositories/UserRepository.java
